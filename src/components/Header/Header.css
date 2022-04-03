@@ -1,0 +1,13 @@
+.header {
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  font-weight: 900;
+  font-size: 3rem;
+  margin-top: 20px;
+}
+
+.light {
+  font-weight: 100;
+  color: rgba(255, 255, 255, 0.762);
+}

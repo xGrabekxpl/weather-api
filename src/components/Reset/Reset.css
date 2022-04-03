@@ -1,0 +1,15 @@
+
+.glyphicon
+{
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  color: #fff;
+  transform: scale(1.5);
+  cursor: pointer;
+}
+
+.reset-button
+{
+  border: 0;
+}
